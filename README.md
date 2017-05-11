@@ -1,2 +1,2 @@
 # jomaju2003.github.io
-hola mundo
+Ball is LIFE
